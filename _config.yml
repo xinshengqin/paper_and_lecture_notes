@@ -1,5 +1,7 @@
 title: Notes for Papers and Lectures
+theme: minima
 markdown: kramdown
 kramdown:
   math_engine: mathjax
-
+include:
+  - _includes/head-custom.html
