@@ -1,0 +1,5 @@
+title: Notes for Papers and Lectures
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
+
