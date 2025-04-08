@@ -1,3 +1,9 @@
+---
+layout: default
+title: Chapter 1
+---
+
+
 This chapter lays the foundation for reinforcement learning by introducing its core components using intuitive grid world examples. It defines the key elements—**states, actions, transitions, policies, rewards, returns, and the framework of Markov Decision Processes (MDPs)**—and establishes the mathematical language used throughout the book.
 
 
